@@ -142,6 +142,7 @@ module.exports = {
     "@emotion/pkg-renaming": `error`,
 
     // Begin React rules
+    "react/react-in-jsx-scope": `off`,
     "react/jsx-indent": [
       `error`,
       2,
